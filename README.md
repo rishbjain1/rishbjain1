@@ -1,1 +1,1 @@
-Interested in anything Data Science, and AI | Currently @ Caltech
+Interested in anything Data Science and AI | Currently @ Caltech

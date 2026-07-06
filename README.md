@@ -2,7 +2,7 @@
 
 **Applied-AI engineer.** I build Model Context Protocol platforms, agentic workflows, and the evaluation harnesses that keep them honest — then ship them as public, running systems.
 
-Data Analyst (Analytics Engineering) at Teleparty by day; independent AI-systems builder the rest of the time. Classically trained stage actor (Prague Shakespeare Company) — a rare pairing for anything customer-facing.
+Data Analyst (Analytics Engineering) at Teleparty by day; independent AI-systems builder the rest of the time. Classically trained stage actor (Prague Shakespeare Company) 
 
 ### What I've shipped
 
